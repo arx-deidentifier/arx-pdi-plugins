@@ -1,7 +1,7 @@
 Privacy Plugin for PDI/Kettle
 ====
 
-This project implements a plugin for the Pentaho Data Integraion platform which provides methods for assessing and managing re-identification risks based on the methodology proposed in "El Emam, Khaled, Guide to the De-Identification of Personal Health Information, CRC Press, 2013".
+This project implements a plugin for the Pentaho Data Integration platform which provides methods for assessing and managing re-identification risks based on the methodology proposed in "El Emam, Khaled, Guide to the De-Identification of Personal Health Information, CRC Press, 2013".
 
 Compilation
 ------
