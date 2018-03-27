@@ -233,7 +233,7 @@ public class ReidentificationRiskManagementStep extends BaseStep implements Step
         }
       // Log progress if it is time to to so
       if (checkFeedback(getLinesRead()) ) {
-        logBasic(BaseMessages.getString(PKG, "ReidentificationRiskManagementStep.Message.Linenr", getLinesRead())); // Some basic logging
+        logBasic(BaseMessages.getString(PKG, "ReidentificationRiskManagementStep.Message.NumLinesProcessed", getLinesRead())); // Some basic logging
       }
 
       // indicate that processRow() should be called again
